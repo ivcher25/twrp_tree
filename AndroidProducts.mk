@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+$(LOCAL_DIR)/ZB501KL_asus.mk \
+$(LOCAL_DIR)/omni_ZB501KL_asus.mk

@@ -1,0 +1,9 @@
+ Inherit device configuration
+$(call inherit-product, device/asus/ZB501KL_asus/ZB501KL_asus.mk)
+
+# Device identifier. This must come after all inclusions
+PRODUCT_DEVICE := ZB501KL_asus
+PRODUCT_NAME := omni_ZB501KL_asus
+PRODUCT_BRAND := asus
+PRODUCT_MODEL := zb501kl
+PRODUCT_MANUFACTURER := asus

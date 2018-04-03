@@ -1,0 +1,1 @@
+add_lunch_combo omni_ZB501KL_asus-userdebug
